@@ -1,0 +1,23 @@
+body
+{
+    background-color: #000100;
+    color: greenyellow;
+}
+
+.headding
+{
+    width: 80%;
+    font-size: 22px;
+}
+
+#camera
+{
+    border: dashed greenyellow;
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_objects, #result_object_name, #result_object_accurancy
+{
+    color: rgb(27, 187, 240);
+}
